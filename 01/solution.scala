@@ -1,4 +1,4 @@
-import scala.io._
+import scala.io.{BufferedSource, Source}
 import scala.collection.Iterator
 import scala.annotation.tailrec
 
